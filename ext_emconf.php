@@ -12,11 +12,11 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Simple BE iframe',
-	'description' => '',
+	'description' => 'Simple iframe for TYPO3 CMS',
 	'category' => 'plugin',
-	'author' => '',
-	'author_email' => '',
-	'state' => 'alpha',
+	'author' => 'Rania Marou',
+	'author_email' => 'rania.marou@gmail.com',
+	'state' => 'stable',
 	'internal' => '',
 	'uploadfolder' => '0',
 	'createDirs' => '',
