@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-05-27T19:37:03Z" product-name="simpleiframe">
+		<header/>
+		<body>
+			<trans-unit id="tx_simpleiframe_domain_model_iframe">
+				<source>Iframe</source>
+			</trans-unit>
+			<trans-unit id="tx_simpleiframe_domain_model_iframe.iframelink">
+				<source>Iframelink</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

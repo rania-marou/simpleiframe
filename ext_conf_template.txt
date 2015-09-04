@@ -1,0 +1,2 @@
+# cat=basic//; type=string; label=URL to be placed in iframe: Keep in mind that some website do not allow framing.
+URL = http://rania.marou.info

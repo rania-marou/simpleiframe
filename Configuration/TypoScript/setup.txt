@@ -1,0 +1,11 @@
+# Module configuration
+module.tx_simpleiframe {
+	persistence {
+		storagePid = {$module.tx_simpleiframe.persistence.storagePid}
+	}
+	view {
+		templateRootPath = {$module.tx_simpleiframe.view.templateRootPath}
+		partialRootPath = {$module.tx_simpleiframe.view.partialRootPath}
+		layoutRootPath = {$module.tx_simpleiframe.view.layoutRootPath}
+	}
+}
