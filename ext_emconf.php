@@ -12,8 +12,8 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Simple BE iframe',
-	'description' => 'Simple iframe for TYPO3 CMS',
-	'category' => 'plugin',
+	'description' => 'Simple iframe is a tool that helps you display any page as an iframe in the Backend of TYPO3 CMS.',
+	'category' => 'module',
 	'author' => 'Rania Marou',
 	'author_email' => 'rania.marou@gmail.com',
 	'state' => 'stable',
