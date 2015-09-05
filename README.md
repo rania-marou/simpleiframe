@@ -4,7 +4,7 @@ Simple iframe is a tool that helps you preview any page as an iframe in the back
 > Keep in mind that some websites do not allow framing.
 
 ### Version
-1.0
+1.0.0
 
 # Installation
 Download the source code from the [Git repository](https://github.com/rania-marou/simpleiframe). Install the extension, as usual, from the Extension Manager.
