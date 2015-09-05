@@ -7,7 +7,7 @@ Simple iframe is a tool that helps you preview any page as an iframe in the back
 1.0.0
 
 # Installation
-Download the source code from the [Git repository](https://github.com/rania-marou/simpleiframe). Install the extension, as usual, from the Extension Manager.
+Download the source code either from the [Git repository](https://github.com/rania-marou/simpleiframe) or from the [TYPO3 Extension Repository](http://typo3.org/extensions/repository/view/simpleiframe) for stable versions. Install the extension, as usual, from the Extension Manager.
 
 # Configuration
 The URL that you want to frame can be configured in the Extension Manager. If you need to configure the URL, switch to the module "Extension Manager", select the extension "simpleiframe" and press on the configure icon.
