@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Simple BE iframe',
-	'description' => 'Simple iframe is a tool that helps you display any page as an iframe in the Backend of TYPO3 CMS.',
+	'description' => 'Simple iframe for TYPO3 CMS',
 	'category' => 'module',
 	'author' => 'Rania Marou',
 	'author_email' => 'rania.marou@gmail.com',
@@ -21,10 +21,10 @@ $EM_CONF[$_EXTKEY] = array(
 	'uploadfolder' => '0',
 	'createDirs' => '',
 	'clearCacheOnLoad' => 0,
-	'version' => '1.0.0',
+	'version' => '1.1.1',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '6.2.0-6.99.99',
+			'typo3' => '6.2.0-7.99.99',
 		),
 		'conflicts' => array(
 		),

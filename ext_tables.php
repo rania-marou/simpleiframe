@@ -10,15 +10,15 @@ if (TYPO3_MODE === 'BE') {
 	 */
 	\TYPO3\CMS\Extbase\Utility\ExtensionUtility::registerModule(
 		'Simpleiframe.' . $_EXTKEY,
-		'user',	 			// New 'WEB' submodule
-		'simpleiframe',		// Submodule key
-		'bottom',			// Position
+		'tools',
+		'simpleiframe',
+		'bottom',
 		array(
 			'Iframe' => 'index',
 		),
 		array(
 			'access' => 'user,group',
-			'icon'   => 'EXT:' . $_EXTKEY . '/ext_icon.gif',
+			'icon'   => 'EXT:' . $_EXTKEY . '/Resources/Public/Icons/simpleiframe.svg',
 			'labels' => 'LLL:EXT:' . $_EXTKEY . '/Resources/Private/Language/locallang_simpleiframe.xlf',
 		)
 	);
